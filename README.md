@@ -1,5 +1,5 @@
 # git_test
-Hello Odin  
+Hello Odinite  
 There's much more than you can tell  
 Keep going  
 
