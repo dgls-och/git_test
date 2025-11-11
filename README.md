@@ -10,7 +10,7 @@ Save ya head
 What if I wrote on the same line ...  
 ... meaning to display to another?
 
-As tempestous as life seems,
-so time passes on life's sea.
-Yet I seek a to make a seam,
-'twill be as though I am a seal.
+As tempestous as life seems,  
+so time passes on life's sea.  
+Yet I seek a to make a seam,  
+'twill be as though I am a seal.  
